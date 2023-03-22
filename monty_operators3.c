@@ -1,3 +1,8 @@
+/*
+ * Auth: Philip Favour B.
+ * Col: Henry Ikegwuonu
+ * File: monty_operators3.c
+ */
 #include "monty.h"
 
 /**

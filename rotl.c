@@ -1,3 +1,8 @@
+/*
+ * Auth: Philip Favour B.
+ * Col: Henry Ikegwuonu
+ * File: rotl.c
+ */
 #include "monty.h"
 
 /**

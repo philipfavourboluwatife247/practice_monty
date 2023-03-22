@@ -1,3 +1,8 @@
+/*
+ * Auth: Philip Favour B.
+ * Col: Henry Ikegwuonu
+ * File: p_str.c
+ */
 #include "monty.h"
 
 /**

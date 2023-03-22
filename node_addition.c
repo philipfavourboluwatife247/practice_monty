@@ -1,3 +1,8 @@
+/*
+ * Auth: Philip Favour B.
+ * Col: Henry Ikegwuonu
+ * File: node_addition.c
+ */
 #include "monty.h"
 
 /**
